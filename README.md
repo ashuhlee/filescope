@@ -14,7 +14,7 @@ filescope <path>
 1. **Clone this repository**
 ```zsh
 git clone https://github.com/ashuhlee/filescope.git
-cd starlit
+cd filescope
 ```
 2. **Install the binary**
 ```zsh
